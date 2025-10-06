@@ -19,20 +19,29 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
 # Virtual Environment
 venv/
 env/
 ENV/
+env.bak/
+venv.bak/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
 # Logs
@@ -41,10 +50,6 @@ Thumbs.db
 # Reports (keep structure but ignore generated files)
 reports/*.pdf
 reports/*.html
-
-# Screenshots (optional - you can include them or not)
-# screenshots/*.png
-# screenshots/*.jpg
 
 # Temporary files
 *.tmp
