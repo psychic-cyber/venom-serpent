@@ -9,27 +9,27 @@ Venom Serpent is a professional-grade cybersecurity simulation tool that demonst
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+![Main Interface]([screenshots/main_interface.png](https://github.com/psychic-cyber/venom-serpent/blob/254adfc3bb5ea6c96542fb52c9d19f59a4a16bd1/screenshots/main.png))
 *Professional dark theme with attack timeline and step navigation*
 
 ### Reconnaissance Phase
-![Reconnaissance Phase](screenshots/reconnaissance_phase.png)
+![Reconnaissance Phase](https://github.com/psychic-cyber/venom-serpent/blob/254adfc3bb5ea6c96542fb52c9d19f59a4a16bd1/screenshots/reconnaissance.png)
 *Port scanning and service detection with real-time log output*
 
 ### Exploitation Phase
-![Exploitation Phase](screenshots/exploitation_phase.png)
+![Exploitation Phase](https://github.com/psychic-cyber/venom-serpent/blob/35f9bf0e98a0cd60220365c5f7c82f27fbc9f750/screenshots/exploit.png)
 *SQL injection and XSS demonstrations with detailed logs*
 
 ### Payload Delivery
-![Payload Delivery](screenshots/payload_delivery.png)
+![Payload Delivery](https://github.com/psychic-cyber/venom-serpent/blob/35f9bf0e98a0cd60220365c5f7c82f27fbc9f750/screenshots/payload.png)
 *Reverse shell simulation and payload deployment*
 
-### Attack Timeline
-![Attack Timeline](screenshots/attack_timeline.png)
+### Persistence Phase
+![Persistence](https://github.com/psychic-cyber/venom-serpent/blob/35f9bf0e98a0cd60220365c5f7c82f27fbc9f750/screenshots/persistence.png)
 *Visual progress tracking of all attack phases*
 
-### Report Generation
-![Report Generation](screenshots/report_generation.png)
+### Cover Tracks Phase
+![Cover Paths](https://github.com/psychic-cyber/venom-serpent/blob/35f9bf0e98a0cd60220365c5f7c82f27fbc9f750/screenshots/cover.png)
 *Professional PDF reports with logo and branding*
 
 ### Adding Your Screenshots
