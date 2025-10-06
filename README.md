@@ -9,7 +9,7 @@ Venom Serpent is a professional-grade cybersecurity simulation tool that demonst
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface]([screenshots/main_interface.png](https://github.com/psychic-cyber/venom-serpent/blob/254adfc3bb5ea6c96542fb52c9d19f59a4a16bd1/screenshots/main.png))
+![Main Interface](https://github.com/psychic-cyber/venom-serpent/blob/254adfc3bb5ea6c96542fb52c9d19f59a4a16bd1/screenshots/main.png)
 *Professional dark theme with attack timeline and step navigation*
 
 ### Reconnaissance Phase
@@ -26,24 +26,11 @@ Venom Serpent is a professional-grade cybersecurity simulation tool that demonst
 
 ### Persistence Phase
 ![Persistence](https://github.com/psychic-cyber/venom-serpent/blob/35f9bf0e98a0cd60220365c5f7c82f27fbc9f750/screenshots/persistence.png)
-*Visual progress tracking of all attack phases*
+*Execute persistence to gather intelligence and vulnerabilities*
 
 ### Cover Tracks Phase
 ![Cover Paths](https://github.com/psychic-cyber/venom-serpent/blob/35f9bf0e98a0cd60220365c5f7c82f27fbc9f750/screenshots/cover.png)
-*Professional PDF reports with logo and branding*
-
-### Adding Your Screenshots
-To add screenshots to this README:
-1. Take screenshots of your tool in action
-2. Save them in the `screenshots/` directory
-3. Name them according to the sections above:
-   - `main_interface.png`
-   - `reconnaissance_phase.png`
-   - `exploitation_phase.png`
-   - `payload_delivery.png`
-   - `attack_timeline.png`
-   - `report_generation.png`
-4. The images will automatically display in the README
+*Covering tracks and logs*
 
 ## ✨ Features
 
